@@ -13,4 +13,4 @@
 🧰 Skills: Java | JDBC | Servlets | JSP | Spring | Hibernate | HTML/CSS/JS | Git | MySQL | Tomcat
 
 📈 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?Ranjithkumarbandari=Ranjithkumarbandari&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjithkumarbandari&show_icons=true&theme=tokyonight)
