@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <b>Ranjithkumar Bandari</b></h1>
-<h3 align="center">A passionate Java Full Stack Developer & Machine Learning Enthusiast from India</h3>
+<h3 align="center">A passionate Java Full Stack Developer Enthusiast from India</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="banner"/>
@@ -29,7 +29,7 @@
     <img align="center" src="https://raw.githubusercontent.com/ranjithkumarbandari/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://instagram.com/call_me_ab_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/ranjithkumarbandari/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+    <img align="center" src="[https://raw.githubusercontent.com/ranjithkumarbandari](https://www.instagram.com/mr_ranjith_kumar99/#)/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
 
@@ -57,11 +57,11 @@ Here are some of my complete uploaded projects:
   <!-- Backend -->
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+
 
   <!-- Databases -->
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+ 
 
 
   <!-- DevOps & Tools -->
