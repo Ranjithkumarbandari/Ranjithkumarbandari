@@ -25,7 +25,7 @@
 
 ## 🔗 Connect with me  
 <p align="left">
-  <a href="https://linkedin.com/in/ranjithkumarbandari" target="_blank">
+  <a href="www.linkedin.com/in/ranjithkumar-bandari-40963b254" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/ranjithkumarbandari/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://www.instagram.com/mr_ranjith_kumar99/#" target="_blank">
