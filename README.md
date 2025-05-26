@@ -25,7 +25,7 @@
 
 ## 🔗 Connect with me  
 <p align="left">
-  <a href="www.linkedin.com/in/ranjithkumar-bandari-40963b254" target="_blank">
+  <a href="https://www.linkedin.com/in/ranjithkumar-bandari-40963b254" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/ranjithkumarbandari/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://www.instagram.com/mr_ranjith_kumar99/#" target="_blank">
@@ -39,7 +39,7 @@
 Here are some of my complete uploaded projects:
 
 - 🚀 [Instagram Clone](https://github.com/Ranjithkumarbandari/instagram-clone) – Java, Servlets, JSP, MySQL, Tomcat.
-- 📚 [Student Management System](https://github.com/Ranjithkumarbandari/student-management-system) – Spring MVC, JDBC, JSP, MySQL.
+- 📚 [Student Management System](https://github.com/Ranjithkumarbandari/Student-Management-System) – Spring MVC, JDBC, JSP, MySQL.
 
 
 > 📝 _More projects available at [github.com/Ranjithkumarbandari](https://github.com/Ranjithkumarbandari)_
