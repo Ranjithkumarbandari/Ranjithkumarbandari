@@ -28,8 +28,8 @@
   <a href="https://linkedin.com/in/ranjithkumarbandari" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/ranjithkumarbandari/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/call_me_ab_" target="_blank">
-    <img align="center" src="[https://raw.githubusercontent.com/ranjithkumarbandari](https://www.instagram.com/mr_ranjith_kumar99/#)/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  <a href="https://www.instagram.com/mr_ranjith_kumar99/#" target="_blank">
+    <img align="center" src="[https://raw.githubusercontent.com/ranjithkumarbandari]/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
 </p>
 
