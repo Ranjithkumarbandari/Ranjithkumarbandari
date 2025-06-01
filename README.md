@@ -38,7 +38,7 @@
 ## 🧩 My Projects  
 Here are some of my complete uploaded projects:
 
-- 🚀 [Instagram Clone](https://github.com/Ranjithkumarbandari/instagram-clone) – Java, Servlets, JSP, MySQL, Tomcat.
+- 🚀 [Instagram Clone]([https://github.com/Ranjithkumarbandari/instagram-clone](https://github.com/Ranjithkumarbandari/Instagram_clone-Project/tree/main)) – Java, Servlets, JSP, MySQL, Tomcat.
 - 📚 [Student Management System](https://github.com/Ranjithkumarbandari/Student_Management_System) – Spring MVC, JDBC, JSP, MySQL.
 
 
