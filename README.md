@@ -13,12 +13,12 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **Full Stack Web Development & Machine Learning Projects**
-- 🌱 I’m advancing my skills in **Java, Spring Boot, React.js, Machine Learning, and Cloud Technologies**
-- 👯 I’m open to collaborating on **Full Stack Applications & AI-based solutions**
-- 💬 Ask me about **Java, Spring Boot, React, Node.js, REST APIs, Machine Learning (TensorFlow, Scikit-learn)**
+- 🔭 I’m currently working on **Realtime projects and DSA Problems** 
+- 🌱 I’m advancing my skills in **Java, Spring Boot, React.js**
+- 👯 I’m open to collaborating on **Full Stack Applications **
+- 💬 Ask me about **Java, Spring Boot, React, Node.js, REST APIs**
 - 📫 Reach me at **[ranjithkumarbandari09@gmail.com](mailto:ranjithkumarbandari09@gmail.com)**
-- ⚡ Fun fact: **I enjoy solving coding challenges & experimenting with AI models!**
+- ⚡ Fun fact: **I enjoy solving coding challenges & experimenting with DSA Problem!**
 
 ---
 
